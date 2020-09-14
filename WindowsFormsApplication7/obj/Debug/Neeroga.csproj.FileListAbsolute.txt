@@ -1,0 +1,83 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainMenu.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.signup.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csprojResolveAssemblyReference.cache
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.signup.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csproj.GenerateResource.Cache
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Administrator.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\Bunifu_UI_v1.52.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Reception.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Consultant.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.AppointmentsView.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DoctorAvailability.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Payments.resources
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.cache
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.compiled
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.dll
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.dll
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.pdb
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.pdb
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csprojResolveAssemblyReference.cache
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Administrator.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.AppointmentsView.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Consultant.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DoctorAvailability.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Payments.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Reception.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.signup.resources
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csproj.GenerateResource.Cache
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.cache
+H:\JUNE 04\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.compiled
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.dll
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.dll
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\BusinessLayer.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\DataLayer.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csprojResolveAssemblyReference.cache
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Administrator.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.AppointmentsView.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Consultant.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DoctorAvailability.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Payments.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Reception.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.signup.resources
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csproj.GenerateResource.Cache
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.cache
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\RdlCompile.compiled
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\Neeroga.csprojResolveAssemblyReference.cache

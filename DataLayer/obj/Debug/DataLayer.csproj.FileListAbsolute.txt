@@ -1,0 +1,8 @@
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\DataLayer\bin\Debug\DataLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\DataLayer\bin\Debug\DataLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.pdb
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.dll
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\DataLayer\obj\Debug\DataLayer.pdb

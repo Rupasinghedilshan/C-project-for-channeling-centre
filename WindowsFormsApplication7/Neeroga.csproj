@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3ADEF5A5-8152-40E8-B26C-E4AE9FE03590}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication7</RootNamespace>
+    <AssemblyName>WindowsFormsApplication7</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\SOFTWARES\64\bunifu UI\1\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessLayer">
+      <HintPath>..\BusinessLayer\bin\Debug\BusinessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator.Designer.cs">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppointmentsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppointmentsView.Designer.cs">
+      <DependentUpon>AppointmentsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultant.Designer.cs">
+      <DependentUpon>Consultant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorAvailability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorAvailability.Designer.cs">
+      <DependentUpon>DoctorAvailability.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet1_PatientsDetails.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet1_PatientsDetails.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSetAppointments.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSetAppointments.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSetNeerogaUsers.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSetNeerogaUsers.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet_AllUsers.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet_AllUsers.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet_Appointment.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet_Appointment.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet_Patient.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet_Patient.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NeerogaChannelingCenterDataSet_PatientDetails.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NeerogaChannelingCenterDataSet_PatientDetails.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments.Designer.cs">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reception.Designer.cs">
+      <DependentUpon>Reception.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signup.Designer.cs">
+      <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administrator.resx">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppointmentsView.resx">
+      <DependentUpon>AppointmentsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultant.resx">
+      <DependentUpon>Consultant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorAvailability.resx">
+      <DependentUpon>DoctorAvailability.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reception.resx">
+      <DependentUpon>Reception.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="signup.resx">
+      <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="NeerogaChannelingCenterDataSet.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1_PatientsDetails.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet1_PatientsDetails.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1_PatientsDetails.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet1_PatientsDetails.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet1_PatientsDetails.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet1_PatientsDetails.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet2.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet2.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet3.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet3.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet4.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet4.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet5.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet5.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetAppointments.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSetAppointments.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetAppointments.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSetAppointments.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetAppointments.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSetAppointments.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetNeerogaUsers.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSetNeerogaUsers.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetNeerogaUsers.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSetNeerogaUsers.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSetNeerogaUsers.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSetNeerogaUsers.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_AllUsers.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet_AllUsers.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_AllUsers.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet_AllUsers.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_AllUsers.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet_AllUsers.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Appointment.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet_Appointment.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Appointment.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet_Appointment.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Appointment.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet_Appointment.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet_ApppointmentsNeeroga.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Patient.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet_Patient.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Patient.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet_Patient.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_Patient.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet_Patient.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_PatientDetails.xsc">
+      <DependentUpon>NeerogaChannelingCenterDataSet_PatientDetails.xsd</DependentUpon>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_PatientDetails.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NeerogaChannelingCenterDataSet_PatientDetails.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NeerogaChannelingCenterDataSet_PatientDetails.xss">
+      <DependentUpon>NeerogaChannelingCenterDataSet_PatientDetails.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2820%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

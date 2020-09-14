@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\NeerogaChanneling\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.MainMenu.resources

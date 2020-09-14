@@ -1,0 +1,24 @@
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.dll
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.pdb
+U:\ASSIGNMENTS\ASSIGNMENT WAD(C#)\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.dll
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.pdb
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.dll
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.pdb
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.dll
+H:\JUNE 04\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.dll
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\bin\Debug\DataLayer.pdb
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.pdb
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.dll
+U:\UNIVERSITY STUDIES\Module 12 Windows Application development\ASSIGNMENT WAD(C#)\(Dilshan Sameera)Windows Application Development Asssignment\NEEROGA System\NeerogaChanneling\BusinessLayer\obj\Debug\BusinessLayer.pdb
